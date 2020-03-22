@@ -110,6 +110,8 @@ TW_MAX_BRIGHTNESS := 255
 TW_THEME := portrait_hdpi
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_USE_TOOLBOX := true
+TW_Y_OFFSET := 80
+TW_H_OFFSET := -80
 
 AB_OTA_PARTITIONS += \
     boot \
